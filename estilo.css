@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AR:wght@100..400&display=swap');
+
+
+body{
+   font-family: "Playwrite Argentina" ,sans-serif;
+
+    color:rgb(122, 121, 122);
+}
+
+h2{
+    margin: 0px;
+}
+
+.time{
+    width: 400px; /* Largura da div de 400px fixos*/
+    border: solid black 1px;
+    padding:30px;
+    margin: 20px;
+    box-shadow: 5px 5px;
+}
+
+#cru{
+    color:white;
+}
+
+#amg{
+    color: green;
+}
+
+#cam{
+    color:black;
+}
+img{
+    width: 100px;
+}
+
+p{
+    font-weigth: 400;
+}
